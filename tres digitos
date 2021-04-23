@@ -1,0 +1,11 @@
+Algoritmo tresdigitos 
+	Escribir 'Escribe el primer digito'
+	Leer numero1;
+	Escribir 'Escribe el segundo digito'
+	Leer numero2;
+	Escribir 'Escribe el tercer digito'
+	Leer numero3;
+	Escribir 'Suma de los digitos es = ' , numero1 + numero2 + numero3;
+	Escribir 'Multiplicacion de los digitos es = ', numero1 * numero2 * numero3;
+	
+FinAlgoritmo
